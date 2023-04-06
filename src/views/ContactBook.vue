@@ -38,7 +38,7 @@
                     params: { id: activeContact._id },
                 }">
                     <span class="mt-2 badge badge-warning">
-                    <i class="fas fa-edit p-1"></i>Hiệu chỉnh</span>
+                    <i class="fas fa-edit p-1" ></i>Hiệu chỉnh</span>
                 </router-link>
             </div>
         </div>
