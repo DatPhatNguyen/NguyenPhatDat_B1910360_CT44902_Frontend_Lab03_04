@@ -27,8 +27,8 @@
             </label>
         </div>
         <div class="form-group">
-            <button class="btn btn-primary">Lưu</button>
-            <button v-if="contactLocal._id" type="button" class="ml-2 btn btn-danger" @click="deleteContact">
+            <button class="btn btn-primary py-2 px-3">Lưu</button>
+            <button v-if="contactLocal._id" type="button" class="ml-2 btn btn-danger py-2 px-3" @click="deleteContact">
                 Xóa
             </button>
         </div>
